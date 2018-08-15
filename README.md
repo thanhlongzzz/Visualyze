@@ -1,8 +1,7 @@
 # Visualyze Music 
 
 Using P5js and dat.GUI
-* [Link Play](https://hoangtran0410.github.io/Visualyze-design-your-own-/)
-* [Old Version](https://hoangtran0410.github.io/VisualyzeTest/)
+* [Link Play](https://thanhlongzzz.github.io/Visualyze/)
 
 * [P5js Library](https://p5js.org/) and [Toturial from Daniel Shiffman](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [dat.GUI toturial](https://workshop.chromeexperiments.com/examples/gui/#1--Basic-Usage)
